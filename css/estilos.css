@@ -1,0 +1,18 @@
+.row{
+  margin-top: 2% !important;
+}
+
+.derecha{
+  float: right !important;
+}
+
+.ocultar{
+  display: none !important;
+}
+
+th.imagenMini img{
+  width:50px !important;
+  height:50px !important;
+  border-radius:50px !important;
+  border: 1px solid #ccc;
+}
